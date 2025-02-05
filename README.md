@@ -1,5 +1,5 @@
 # Architectural Design
-The file [Later - Architectural Design.pdf](Later%20-%20Architectural%20Design) contains the architectural design.
+The file [Later - Architectural Design.pdf](Later%20-%20Architectural%20Design.pdf) contains the architectural design.
 
 # POC - Application overview
 The application fetches the top stories from the New York Times APIs from 5 categories (business, science, technology, us, world) and store them 
