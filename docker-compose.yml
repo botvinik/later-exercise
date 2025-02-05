@@ -1,0 +1,43 @@
+services:
+  client-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    depends_on:
+      later_db:
+        condition: service_healthy
+    networks:
+      - later_network
+  later_db:
+    image: postgres:15
+    container_name: later_db
+    restart: always
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: later2025!
+      POSTGRES_DB: later_dev
+    networks:
+      - later_network
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
+
+networks:
+  later_network:
+    driver: bridge

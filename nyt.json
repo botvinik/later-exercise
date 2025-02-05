@@ -1,0 +1,2301 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2025-02-01T10:32:16-05:00",
+    "num_results": 36,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Life After a Rebel Takeover",
+            "abstract": "For those living in Goma, which has been captured by Rwanda-backed rebels, there is little water, little food and much uncertainty.",
+            "url": "https://www.nytimes.com/2025/02/01/world/africa/life-after-a-rebel-takeover.html",
+            "uri": "nyt://article/0e93149b-688c-57fa-a983-a70a4c0d7aad",
+            "byline": "By Caleb Kabanda, Ruth Maclean and Guerchom Ndebo",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:49:48-05:00",
+            "created_date": "2025-02-01T05:02:19-05:00",
+            "published_date": "2025-02-01T05:02:19-05:00",
+            "material_type_facet": "",
+            "kicker": "Goma Dispatch",
+            "des_facet": [
+                "vis-photo",
+                "Politics and Government",
+                "Defense and Military Forces",
+                "Civilian Casualties",
+                "Food",
+                "Water",
+                "Deaths (Fatalities)",
+                "Shortages"
+            ],
+            "org_facet": [
+                "March 23 Movement"
+            ],
+            "per_facet": [
+                "Corneille, Pierre",
+                "Tshisekedi, Felix"
+            ],
+            "geo_facet": [
+                "Congo, Democratic Republic of (Congo-Kinshasa)",
+                "Goma (Congo, Democratic Republic of)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01congo-scene-promo/01congo-scene-1-bhpc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "M23 soldiers, in the foreground, as they secured Congolese soldiers who had surrendered in Goma, the Democratic Republic of Congo, on Thursday.",
+                    "copyright": "Guerchom Ndebo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01congo-scene-promo/01congo-scene-1-bhpc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "M23 soldiers, in the foreground, as they secured Congolese soldiers who had surrendered in Goma, the Democratic Republic of Congo, on Thursday.",
+                    "copyright": "Guerchom Ndebo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01congo-scene-promo/01congo-scene-1-bhpc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "M23 soldiers, in the foreground, as they secured Congolese soldiers who had surrendered in Goma, the Democratic Republic of Congo, on Thursday.",
+                    "copyright": "Guerchom Ndebo for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Moo Deng, the Toddler Hippopotamus, Is Still a Star",
+            "abstract": "The pygmy hippopotamus, now 6 months old, is Thailand’s biggest celebrity, and the crowds keep flocking. What explains her charm?",
+            "url": "https://www.nytimes.com/2025/02/01/world/asia/moo-deng-thailand-zoo.html",
+            "uri": "nyt://article/5ba19d27-7681-5603-98b3-84dc151cd37f",
+            "byline": "By Hannah Beech and Muktita Suhartono",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:38:32-05:00",
+            "created_date": "2025-02-01T00:01:14-05:00",
+            "published_date": "2025-02-01T00:01:14-05:00",
+            "material_type_facet": "",
+            "kicker": "Thailand Dispatch",
+            "des_facet": [
+                "Hippopotamuses",
+                "Zoos",
+                "Endangered and Extinct Species"
+            ],
+            "org_facet": [
+                "Khao Kheow Open Zoo"
+            ],
+            "per_facet": [
+                "Moo Deng"
+            ],
+            "geo_facet": [
+                "Thailand"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/23/multimedia/00dispatch-moodeng-06-pjcl/00dispatch-moodeng-06-pjcl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Moo Deng striking an adorable pose in her enclosure.",
+                    "copyright": "Lauren DeCicca for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/23/multimedia/00dispatch-moodeng-06-pjcl/00dispatch-moodeng-06-pjcl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Moo Deng striking an adorable pose in her enclosure.",
+                    "copyright": "Lauren DeCicca for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/23/multimedia/00dispatch-moodeng-06-pjcl/00dispatch-moodeng-06-pjcl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Moo Deng striking an adorable pose in her enclosure.",
+                    "copyright": "Lauren DeCicca for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Live Updates: Hamas Releases 3 More Israeli Hostages in Exchange for Palestinian Prisoners",
+            "abstract": "The hostage handovers appeared to go relatively smoothly, unlike the previous one, which descended into chaos.",
+            "url": "https://www.nytimes.com/live/2025/02/01/world/israel-hamas-gaza-hostages",
+            "uri": "nyt://promo/51971f87-1865-50e7-9e65-0b2567ef87be",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2025-02-01T12:21:13-05:00",
+            "created_date": "2025-02-01T03:35:02-05:00",
+            "published_date": "2025-02-01T03:35:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-promo12p-et-fvgh/01mideast-crisis-promo12p-et-fvgh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-promo12p-et-fvgh/01mideast-crisis-promo12p-et-fvgh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-promo12p-et-fvgh/01mideast-crisis-promo12p-et-fvgh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Want a Million Dollars? Get Busy Deciphering This Ancient Script.",
+            "abstract": "A prize offered by an Indian state leader is intended to shed light on a Bronze Age civilization — and settle a cultural battle.",
+            "url": "https://www.nytimes.com/2025/02/01/world/asia/india-indus-script-prize.html",
+            "uri": "nyt://article/21142dae-d4fe-5ecf-be07-1f4dbb241018",
+            "byline": "By Pragati K.B.",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T00:01:05-05:00",
+            "created_date": "2025-02-01T00:01:05-05:00",
+            "published_date": "2025-02-01T00:01:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hinduism",
+                "Archaeology and Anthropology",
+                "Language and Languages"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "India"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01india-script-01-blgp/01india-script-01-blgp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2022,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A seal with the Indus Valley civilization script that is part of the collection of the National Museum in New Delhi.",
+                    "copyright": "Fine Art Images/Heritage Images, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01india-script-01-blgp/01india-script-01-blgp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A seal with the Indus Valley civilization script that is part of the collection of the National Museum in New Delhi.",
+                    "copyright": "Fine Art Images/Heritage Images, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01india-script-01-blgp/01india-script-01-blgp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A seal with the Indus Valley civilization script that is part of the collection of the National Museum in New Delhi.",
+                    "copyright": "Fine Art Images/Heritage Images, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Latin America Gets Into Deal-Making Mode for Rubio’s Visit",
+            "abstract": "After a barrage of threats from President Trump, Secretary of State Marco Rubio is now tasked with trying to reap cooperation from Latin America.",
+            "url": "https://www.nytimes.com/2025/02/01/world/americas/rubio-central-america-visit.html",
+            "uri": "nyt://article/d1c6662d-c190-5d0e-b377-2a8c5ed963d3",
+            "byline": "By Maria Abi-Habib, Annie Correal, Emiliano Rodríguez Mega, James Wagner and David Bolaños",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T10:26:49-05:00",
+            "created_date": "2025-02-01T05:01:29-05:00",
+            "published_date": "2025-02-01T05:01:29-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Deportation",
+                "Illegal Immigration",
+                "Foreign Aid",
+                "Asylum, Right of"
+            ],
+            "org_facet": [
+                "Panama Canal Authority"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Rubio, Marco"
+            ],
+            "geo_facet": [
+                "Darien Gap",
+                "Panama",
+                "Costa Rica",
+                "Guatemala",
+                "El Salvador",
+                "Panama Canal and Canal Zone",
+                "Dominican Republic"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01central-america-rubio-mlvk/01central-america-rubio-mlvk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1419,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Secretary of State Marco Rubio is scheduled to visit Panama, Guatemala, Costa Rica, the Dominican Republic and El Salvador.",
+                    "copyright": "Elizabeth Frantz/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01central-america-rubio-mlvk/01central-america-rubio-mlvk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Secretary of State Marco Rubio is scheduled to visit Panama, Guatemala, Costa Rica, the Dominican Republic and El Salvador.",
+                    "copyright": "Elizabeth Frantz/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01central-america-rubio-mlvk/01central-america-rubio-mlvk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Secretary of State Marco Rubio is scheduled to visit Panama, Guatemala, Costa Rica, the Dominican Republic and El Salvador.",
+                    "copyright": "Elizabeth Frantz/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "How the World Is Reeling From Trump’s Aid Freeze",
+            "abstract": "President Trump’s order to halt most foreign aid has intensified humanitarian crises and raised questions about the United States’ reliability as a global leader.",
+            "url": "https://www.nytimes.com/2025/01/31/world/asia/trump-usaid-freeze.html",
+            "uri": "nyt://article/3a4f0a34-3478-5ba1-931f-cc763237ab24",
+            "byline": "By Sui-Lee Wee, Declan Walsh and Farnaz Fassihi",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:53:46-05:00",
+            "created_date": "2025-01-31T05:02:05-05:00",
+            "published_date": "2025-01-31T05:02:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Foreign Aid",
+                "United States International Relations",
+                "Humanitarian Aid",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "International Rescue Committee",
+                "Refugees International",
+                "United States Agency for International Development"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31usaid-world-1-kbtg/31usaid-world-1-kbtg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Delivering U.S.-funded food aid in Bentiu, South Sudan, in 2023. Supplies of aid to the country have been disrupted since the freeze announced by President Trump.",
+                    "copyright": "Jim Huylebroek for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31usaid-world-1-kbtg/31usaid-world-1-kbtg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Delivering U.S.-funded food aid in Bentiu, South Sudan, in 2023. Supplies of aid to the country have been disrupted since the freeze announced by President Trump.",
+                    "copyright": "Jim Huylebroek for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31usaid-world-1-kbtg/31usaid-world-1-kbtg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Delivering U.S.-funded food aid in Bentiu, South Sudan, in 2023. Supplies of aid to the country have been disrupted since the freeze announced by President Trump.",
+                    "copyright": "Jim Huylebroek for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Italian Judges Again Block Meloni’s Plan to Hold Asylum Seekers in Albania",
+            "abstract": "It was the third ruling against the policy of Prime Minister Giorgia Meloni’s right-wing government by a court, which ruled against the transfers pending a review next month by an E.U. court.",
+            "url": "https://www.nytimes.com/2025/01/31/world/europe/italy-immigrants-albania.html",
+            "uri": "nyt://article/33ed947d-d993-5ff0-905f-46fa6f11b52e",
+            "byline": "By Emma Bubola and Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:40:45-05:00",
+            "created_date": "2025-01-31T15:51:52-05:00",
+            "published_date": "2025-01-31T15:51:52-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "Asylum, Right of",
+                "Politics and Government",
+                "Middle East and Africa Migrant Crisis",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [
+                "European Court of Justice",
+                "European Union",
+                "International Criminal Court"
+            ],
+            "per_facet": [
+                "Meloni, Giorgia (1977- )"
+            ],
+            "geo_facet": [
+                "Albania",
+                "Bangladesh",
+                "Egypt",
+                "Italy",
+                "Libya"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31Italy-asylum-Albania-mbpw/31Italy-asylum-Albania-mbpw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1321,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Italian Navy ship carrying migrants on Tuesday to Albania as part of a deal to process asylum seekers there.",
+                    "copyright": "Florion Goga/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31Italy-asylum-Albania-mbpw/31Italy-asylum-Albania-mbpw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Italian Navy ship carrying migrants on Tuesday to Albania as part of a deal to process asylum seekers there.",
+                    "copyright": "Florion Goga/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31Italy-asylum-Albania-mbpw/31Italy-asylum-Albania-mbpw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Italian Navy ship carrying migrants on Tuesday to Albania as part of a deal to process asylum seekers there.",
+                    "copyright": "Florion Goga/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Venezuela Frees 6 Americans After Visit by Trump Envoy",
+            "abstract": "Richard Grenell, the envoy for special missions, said he was flying home with the detainees after he met with President Nicolás Maduro.",
+            "url": "https://www.nytimes.com/2025/01/31/us/politics/us-prisoners-venezuela.html",
+            "uri": "nyt://article/abdaac02-fd31-59ec-aca1-137923ffece1",
+            "byline": "By Genevieve Glatsky",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:56:48-05:00",
+            "created_date": "2025-01-31T21:11:46-05:00",
+            "published_date": "2025-01-31T21:11:46-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "United States International Relations",
+                "United States Politics and Government",
+                "Political Prisoners"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Grenell, Richard",
+                "Maduro, Nicolas",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Venezuela"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31trump-news-venezuela-prisoners1-qzcj/31trump-news-venezuela-prisoners1-qzcj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2000,
+                    "width": 1333,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Nicolás Maduro of Venezuela, right, with Richard Grenell, President Trump’s envoy for special missions, at the presidential palace in Caracas on Friday in a photo released by Venezuela’s presidential press office.",
+                    "copyright": "Miraflores, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31trump-news-venezuela-prisoners1-qzcj/31trump-news-venezuela-prisoners1-qzcj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Nicolás Maduro of Venezuela, right, with Richard Grenell, President Trump’s envoy for special missions, at the presidential palace in Caracas on Friday in a photo released by Venezuela’s presidential press office.",
+                    "copyright": "Miraflores, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31trump-news-venezuela-prisoners1-qzcj/31trump-news-venezuela-prisoners1-qzcj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Nicolás Maduro of Venezuela, right, with Richard Grenell, President Trump’s envoy for special missions, at the presidential palace in Caracas on Friday in a photo released by Venezuela’s presidential press office.",
+                    "copyright": "Miraflores, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Belgium Forms a Government After 7 Months of Squabbling",
+            "abstract": "The country’s tense negotiations hinged on taxing and social spending — and they highlight issues facing Europe, and Western democracies, as a whole.",
+            "url": "https://www.nytimes.com/2025/01/31/world/europe/belgium-government-new-flemish-alliance.html",
+            "uri": "nyt://article/2eb2595f-92c0-561e-9674-e538d7410fd7",
+            "byline": "By Koba Ryckewaert and Jeanna Smialek",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T17:54:14-05:00",
+            "created_date": "2025-01-31T17:54:14-05:00",
+            "published_date": "2025-01-31T17:54:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Elections",
+                "Budgets and Budgeting"
+            ],
+            "org_facet": [
+                "New Flemish Alliance (Belgian Political Party)",
+                "European Union"
+            ],
+            "per_facet": [
+                "De Wever, Bart"
+            ],
+            "geo_facet": [
+                "Belgium"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31belgium-government-hfo-01-gztp/31belgium-government-hfo-01-gztp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The leader of the New Flemish Alliance party, Bart De Wever, left, with King Philippe of Belgium this month after a meeting at the Royal Palace to discuss the formation of a new government.",
+                    "copyright": "Olivier Matthys/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31belgium-government-hfo-01-gztp/31belgium-government-hfo-01-gztp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The leader of the New Flemish Alliance party, Bart De Wever, left, with King Philippe of Belgium this month after a meeting at the Royal Palace to discuss the formation of a new government.",
+                    "copyright": "Olivier Matthys/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31belgium-government-hfo-01-gztp/31belgium-government-hfo-01-gztp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The leader of the New Flemish Alliance party, Bart De Wever, left, with King Philippe of Belgium this month after a meeting at the Royal Palace to discuss the formation of a new government.",
+                    "copyright": "Olivier Matthys/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Egypt Fears Syria’s Revolutionary Fervor Could Be Contagious",
+            "abstract": "Since Islamist rebels overthrew the Assad dictatorship in Syria, Egypt, with parallels in its own recent history, has watched warily.",
+            "url": "https://www.nytimes.com/2025/01/31/world/middleeast/egypt-syria.html",
+            "uri": "nyt://article/c90cd87a-aa97-552c-bc42-e6a816b79080",
+            "byline": "By Vivian Yee",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T10:00:47-05:00",
+            "created_date": "2025-01-31T05:00:51-05:00",
+            "published_date": "2025-01-31T05:00:51-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Middle East and North Africa Unrest (2010- )",
+                "International Relations"
+            ],
+            "org_facet": [
+                "Hayat Tahrir al-Sham",
+                "Muslim Brotherhood (Egypt)"
+            ],
+            "per_facet": [
+                "Sisi, Abdel Fattah el-"
+            ],
+            "geo_facet": [
+                "Egypt",
+                "Syria",
+                "Middle East"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31egypt-syria-1-fhpk/31egypt-syria-1-fhpk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 778,
+                    "width": 1168,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Abdel Fattah el-Sisi of Egypt commemorating Police Day last week in a photograph released by the Egyptian presidency.",
+                    "copyright": "The Egyptian Presidency"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31egypt-syria-1-fhpk/31egypt-syria-1-fhpk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Abdel Fattah el-Sisi of Egypt commemorating Police Day last week in a photograph released by the Egyptian presidency.",
+                    "copyright": "The Egyptian Presidency"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31egypt-syria-1-fhpk/31egypt-syria-1-fhpk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Abdel Fattah el-Sisi of Egypt commemorating Police Day last week in a photograph released by the Egyptian presidency.",
+                    "copyright": "The Egyptian Presidency"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Why Are These Motorcycle Taxi Drivers Wearing Pink?",
+            "abstract": "Kenya’s “Boda Girls” are turning a male-dominated industry upside down. Their favored customers are pregnant women needing rides to the hospital.",
+            "url": "https://www.nytimes.com/2025/01/31/world/africa/kenya-women-motorcycle-boda-boda-taxi-drivers.html",
+            "uri": "nyt://article/851273bc-b2f8-5304-a70c-147db8193ca4",
+            "byline": "By Tara Todras-Whitehill and Sarah Hurtes",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T05:00:20-05:00",
+            "created_date": "2025-01-31T05:00:20-05:00",
+            "published_date": "2025-01-31T05:00:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "vis-photo",
+                "Women and Girls",
+                "Taxicabs and Taxicab Drivers",
+                "Labor and Jobs",
+                "Motorcycles, Motor Bikes and Motorscooters",
+                "Pregnancy and Childbirth",
+                "Self-Defense",
+                "Philanthropy"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Kenya",
+                "Africa"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/10/multimedia/00kenya-bodaboda-promo2/00kenya-bodaboda-4-pjvb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lilian Raham, one of the “Boda Girls,” prepares to drive a client, Beatrice Oduor, and her child to a clinic in the town of Ukwala.",
+                    "copyright": "Tara Todras-Whitehill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/10/multimedia/00kenya-bodaboda-promo2/00kenya-bodaboda-4-pjvb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lilian Raham, one of the “Boda Girls,” prepares to drive a client, Beatrice Oduor, and her child to a clinic in the town of Ukwala.",
+                    "copyright": "Tara Todras-Whitehill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/10/10/multimedia/00kenya-bodaboda-promo2/00kenya-bodaboda-4-pjvb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lilian Raham, one of the “Boda Girls,” prepares to drive a client, Beatrice Oduor, and her child to a clinic in the town of Ukwala.",
+                    "copyright": "Tara Todras-Whitehill for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "What to Know About Trump’s Military Deportation Flights",
+            "abstract": "The president authorized the military to assist in deportations. The planes triggered a crisis between the United States and Colombia, and prompted questions. Here’s what to know.",
+            "url": "https://www.nytimes.com/2025/01/31/world/americas/trump-military-deportation-flights.html",
+            "uri": "nyt://article/6fabf1eb-e0d8-53da-9f74-3e7e7e4326d4",
+            "byline": "By Annie Correal",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:45:37-05:00",
+            "created_date": "2025-01-31T05:03:18-05:00",
+            "published_date": "2025-01-31T05:03:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deportation",
+                "Military Aircraft",
+                "Immigration and Emigration",
+                "Illegal Immigration"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Colombia",
+                "Brazil",
+                "Guatemala",
+                "Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/29military-deportations-hjwk/29military-deportations-hjwk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A U.S. Air Force plane used to deport migrants on the tarmac this week in Guatemala City.",
+                    "copyright": "Daniele Volpe for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/29military-deportations-hjwk/29military-deportations-hjwk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A U.S. Air Force plane used to deport migrants on the tarmac this week in Guatemala City.",
+                    "copyright": "Daniele Volpe for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/29military-deportations-hjwk/29military-deportations-hjwk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A U.S. Air Force plane used to deport migrants on the tarmac this week in Guatemala City.",
+                    "copyright": "Daniele Volpe for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Norway Seizes Russian-Crewed Ship Suspected of Cutting an Undersea Cable",
+            "abstract": "The authorities said they believed the vessel may have been involved in damaging the cable, the latest act of apparent sabotage in the Baltic Sea.",
+            "url": "https://www.nytimes.com/2025/01/31/world/europe/norway-russia-ship-baltic-undersea-cable.html",
+            "uri": "nyt://article/9cbcf0d0-527c-5022-9bd8-b399f459f42d",
+            "byline": "By Henrik Pryser Libell and Lynsey Chutel",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:57:59-05:00",
+            "created_date": "2025-01-31T07:46:23-05:00",
+            "published_date": "2025-01-31T07:46:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Ships and Shipping",
+                "Sabotage (Crime)",
+                "International Relations",
+                "Wire and Cable"
+            ],
+            "org_facet": [
+                "North Atlantic Treaty Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Baltic Sea",
+                "Norway",
+                "Sweden",
+                "Latvia",
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31norway-ship-zmgh/31norway-ship-zmgh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1368,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Crew members on a French Navy plane patrolling over the Baltic Sea last week as part of a NATO mission to protect undersea cables and pipelines.",
+                    "copyright": "John Leicester/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31norway-ship-zmgh/31norway-ship-zmgh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Crew members on a French Navy plane patrolling over the Baltic Sea last week as part of a NATO mission to protect undersea cables and pipelines.",
+                    "copyright": "John Leicester/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31norway-ship-zmgh/31norway-ship-zmgh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Crew members on a French Navy plane patrolling over the Baltic Sea last week as part of a NATO mission to protect undersea cables and pipelines.",
+                    "copyright": "John Leicester/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "German Opposition Gambles With Far-Right on Immigration, and Loses",
+            "abstract": "Friedrich Merz and his Christian Democrats broke a political taboo by working with the hard-right Alternative for Germany to toughen rules on immigration. It did not pay off.",
+            "url": "https://www.nytimes.com/2025/01/31/world/europe/germany-friedrich-merz-immigration.html",
+            "uri": "nyt://article/0d8373d2-5aaf-5567-8a75-41fa9ae08e4a",
+            "byline": "By Christopher F. Schuetze and Jim Tankersley",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:38:12-05:00",
+            "created_date": "2025-01-31T11:53:41-05:00",
+            "published_date": "2025-01-31T11:53:41-05:00",
+            "material_type_facet": "",
+            "kicker": "news analysis",
+            "des_facet": [
+                "Right-Wing Extremism and Alt-Right",
+                "Politics and Government",
+                "Illegal Immigration",
+                "Elections",
+                "Law and Legislation",
+                "Immigration and Emigration",
+                "Deportation",
+                "Middle East and Africa Migrant Crisis",
+                "Asylum, Right of",
+                "Fringe Groups and Movements",
+                "Polls and Public Opinion",
+                "Legislatures and Parliaments"
+            ],
+            "org_facet": [
+                "Christian Democratic Union (Germany)",
+                "Freedom Party of Austria",
+                "Social Democratic Party (Germany)",
+                "Social Democratic Party (Austria)"
+            ],
+            "per_facet": [
+                "Merkel, Angela",
+                "Merz, Friedrich",
+                "Scholz, Olaf (1958- )",
+                "Weidel, Alice"
+            ],
+            "geo_facet": [
+                "Germany"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31germany-migration-jktc/31germany-migration-jktc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friedrich Merz, German opposition leader and chairman of the Christian Democrats, speaking during a session of the German Parliament in Berlin, on Friday.",
+                    "copyright": "Ebrahim Noroozi/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31germany-migration-jktc/31germany-migration-jktc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friedrich Merz, German opposition leader and chairman of the Christian Democrats, speaking during a session of the German Parliament in Berlin, on Friday.",
+                    "copyright": "Ebrahim Noroozi/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31germany-migration-jktc/31germany-migration-jktc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friedrich Merz, German opposition leader and chairman of the Christian Democrats, speaking during a session of the German Parliament in Berlin, on Friday.",
+                    "copyright": "Ebrahim Noroozi/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Arab Nations Reject Trump’s Suggestion to ‘Clean Out’ Gaza",
+            "abstract": "President Trump has suggested that Gazans should be evacuated from the devastated enclave and taken in by Jordan and Egypt.",
+            "url": "https://www.nytimes.com/2025/02/01/world/middleeast/arab-nations-reject-trump-evacuate-gaza.html",
+            "uri": "nyt://article/8b8e5a49-1d0d-598e-b8c1-629430353f28",
+            "byline": "By Matt Surman and Aaron Boxerman",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T11:19:15-05:00",
+            "created_date": "2025-02-01T10:59:40-05:00",
+            "published_date": "2025-02-01T10:59:40-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "International Relations",
+                "Palestinians"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-arab-league-wjtz/01mideast-crisis-arab-league-wjtz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A meeting of foreign ministers from Egypt, Jordan, Saudi Arabia, Qatar and the United Arab Emirates on Saturday. ",
+                    "copyright": "Khaled Desouki/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-arab-league-wjtz/01mideast-crisis-arab-league-wjtz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A meeting of foreign ministers from Egypt, Jordan, Saudi Arabia, Qatar and the United Arab Emirates on Saturday. ",
+                    "copyright": "Khaled Desouki/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-arab-league-wjtz/01mideast-crisis-arab-league-wjtz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A meeting of foreign ministers from Egypt, Jordan, Saudi Arabia, Qatar and the United Arab Emirates on Saturday. ",
+                    "copyright": "Khaled Desouki/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Wounded Gazans Begin to Leave for Egypt Through Reopened Rafah Crossing",
+            "abstract": "The border point had been closed after Israel invaded the southern city of Rafah in May but is opening again as part of the cease-fire agreement between Israel and Hamas.",
+            "url": "https://www.nytimes.com/2025/02/01/world/middleeast/rafah-crossing-gaza-wounded-egypt.html",
+            "uri": "nyt://article/3e17d0ba-a225-5ef4-8ce1-e292913b7787",
+            "byline": "By Adam Rasgon",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T12:11:41-05:00",
+            "created_date": "2025-02-01T10:23:01-05:00",
+            "published_date": "2025-02-01T10:23:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Egypt",
+                "Gaza Strip",
+                "Israel",
+                "Rafah (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-rafah-border-crossing-tzfg/01mideast-crisis-rafah-border-crossing-tzfg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Medical workers loaded a young Palestinian into an ambulance to cross from Gaza into Egypt via the Rafah border crossing on Saturday.",
+                    "copyright": "Jehad Alshrafi/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-rafah-border-crossing-tzfg/01mideast-crisis-rafah-border-crossing-tzfg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Medical workers loaded a young Palestinian into an ambulance to cross from Gaza into Egypt via the Rafah border crossing on Saturday.",
+                    "copyright": "Jehad Alshrafi/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-rafah-border-crossing-tzfg/01mideast-crisis-rafah-border-crossing-tzfg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Medical workers loaded a young Palestinian into an ambulance to cross from Gaza into Egypt via the Rafah border crossing on Saturday.",
+                    "copyright": "Jehad Alshrafi/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "American-Israeli Hostage Is Released Under Truce Deal",
+            "abstract": "Keith Siegel was abducted along with his wife in the October 2023 Hamas-led attack. His wife was freed in a previous cease-fire.",
+            "url": "https://www.nytimes.com/2025/02/01/world/middleeast/israel-hamas-keith-siegel-hostage-release.html",
+            "uri": "nyt://article/34f88d13-361e-53cc-a0c0-498a30078815",
+            "byline": "By Adam Rasgon",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T12:07:18-05:00",
+            "created_date": "2025-02-01T07:14:02-05:00",
+            "published_date": "2025-02-01T07:14:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Kidnapping and Hostages",
+                "Israel-Gaza War (2023- )",
+                "International Relations"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [
+                "Keith Siegel"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-israel-siegel-tgkp/01mideast-crisis-israel-siegel-tgkp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1301,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Keith Siegel, center, a dual American-Israeli citizen, is flanked by Hamas fighters during his release in Gaza City on Saturday.",
+                    "copyright": "Dawoud Abu Alkas/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-israel-siegel-tgkp/01mideast-crisis-israel-siegel-tgkp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 399,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Keith Siegel, center, a dual American-Israeli citizen, is flanked by Hamas fighters during his release in Gaza City on Saturday.",
+                    "copyright": "Dawoud Abu Alkas/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-israel-siegel-tgkp/01mideast-crisis-israel-siegel-tgkp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Keith Siegel, center, a dual American-Israeli citizen, is flanked by Hamas fighters during his release in Gaza City on Saturday.",
+                    "copyright": "Dawoud Abu Alkas/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Renewed Resolve",
+            "abstract": "On the first day of February, consider a monthly intention-setting ritual, even if you think you don’t have a minute to spare.",
+            "url": "https://www.nytimes.com/2025/02/01/briefing/renewed-resolve.html",
+            "uri": "nyt://article/4a60a09a-82db-5df2-816f-b425198b717c",
+            "byline": "By Melissa Kirsch",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T06:09:57-05:00",
+            "created_date": "2025-02-01T06:07:09-05:00",
+            "published_date": "2025-02-01T06:07:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Habits and Routines (Behavior)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/arts/01themorning-nl/01themorning-nl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/arts/01themorning-nl/01themorning-nl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/arts/01themorning-nl/01themorning-nl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump’s Tariffs Would Reverse Decades of Integration Between U.S. and Mexico",
+            "abstract": "Ties between the United States and Mexico have deepened over 30 years of free trade, creating both benefits and irritants.",
+            "url": "https://www.nytimes.com/2025/02/01/us/politics/trumps-tariffs-us-mexico.html",
+            "uri": "nyt://article/d13fadd1-27e4-5ba1-afc9-e29ea1b21756",
+            "byline": "By Ana Swanson and Simon Romero",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:58:04-05:00",
+            "created_date": "2025-02-01T06:00:10-05:00",
+            "published_date": "2025-02-01T06:00:10-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Customs (Tariff)",
+                "International Trade and World Market",
+                "Protectionism (Trade)",
+                "United States Economy",
+                "Factories and Manufacturing",
+                "Economic Conditions and Trends",
+                "Agriculture and Farming",
+                "North American Free Trade Agreement",
+                "United States-Mexico-Canada Agreement",
+                "Oil (Petroleum) and Gasoline",
+                "Supply Chain",
+                "Illegal Immigration",
+                "Automobiles"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Navarro, Peter"
+            ],
+            "geo_facet": [
+                "Mexico",
+                "United States",
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01dc-usmexicotrade-wtvm/01dc-usmexicotrade-wtvm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trucks passing through a toll on the World Trade Bridge in Laredo, Texas, home to America’s busiest port.",
+                    "copyright": "Carter Johnston for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01dc-usmexicotrade-wtvm/01dc-usmexicotrade-wtvm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trucks passing through a toll on the World Trade Bridge in Laredo, Texas, home to America’s busiest port.",
+                    "copyright": "Carter Johnston for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01dc-usmexicotrade-wtvm/01dc-usmexicotrade-wtvm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trucks passing through a toll on the World Trade Bridge in Laredo, Texas, home to America’s busiest port.",
+                    "copyright": "Carter Johnston for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "Canada’s Auto Industry Capital Braces for Trump Tariffs",
+            "abstract": "Windsor, Ontario, right across the border from Detroit, has close ties to the United States but now faces exceptional economic disruption.",
+            "url": "https://www.nytimes.com/2025/02/01/world/canada/canada-trump-tariffs-windsor.html",
+            "uri": "nyt://article/ac3f34e3-7bb5-5c3e-846a-d8e731e44970",
+            "byline": "By Ian Austen",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T10:50:21-05:00",
+            "created_date": "2025-02-01T06:00:08-05:00",
+            "published_date": "2025-02-01T06:00:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Protectionism (Trade)",
+                "International Trade and World Market",
+                "United States International Relations",
+                "Customs (Tariff)",
+                "Automobiles",
+                "Labor and Jobs"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Dilkens, Drew",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Canada",
+                "Windsor (Ontario)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01canadaletter-mayor-wbvk/01canadaletter-mayor-wbvk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drew Dilkens, the mayor of Windsor, Ontario, says cities will need help their residents deal with the effects of U.S. tariffs.",
+                    "copyright": "Ian Willms for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01canadaletter-mayor-wbvk/01canadaletter-mayor-wbvk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drew Dilkens, the mayor of Windsor, Ontario, says cities will need help their residents deal with the effects of U.S. tariffs.",
+                    "copyright": "Ian Willms for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01canadaletter-mayor-wbvk/01canadaletter-mayor-wbvk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drew Dilkens, the mayor of Windsor, Ontario, says cities will need help their residents deal with the effects of U.S. tariffs.",
+                    "copyright": "Ian Willms for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Trump’s Halt on Climate Spending Freezes Jobs and Stalls Projects",
+            "abstract": "The pause affects billions of dollars and is delaying home repairs, factory construction and other projects, many in states that voted Republican.",
+            "url": "https://www.nytimes.com/2025/02/01/climate/trump-ira-climate-spending-halt-jobs-construction.html",
+            "uri": "nyt://article/ee9d2d3d-6487-5d93-97d0-6fec2f5e9530",
+            "byline": "By Lisa Friedman and Brad Plumer",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T05:01:52-05:00",
+            "created_date": "2025-02-01T05:01:52-05:00",
+            "published_date": "2025-02-01T05:01:52-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Federal Aid (US)",
+                "United States Politics and Government",
+                "Alternative and Renewable Energy",
+                "Presidential Election of 2024",
+                "Executive Orders and Memorandums",
+                "Infrastructure Investment and Jobs Act (2021)",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Plug Power Inc",
+                "Environmental Protection Agency"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Alabama",
+                "Arizona"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01cli-freeze-03-tlhg/01cli-freeze-03-tlhg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A solar project in the Gila River Indian Community in Arizona that was partly funded by the Biden-era Inflation Reduction Act.",
+                    "copyright": "Ross D. Franklin/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01cli-freeze-03-tlhg/01cli-freeze-03-tlhg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A solar project in the Gila River Indian Community in Arizona that was partly funded by the Biden-era Inflation Reduction Act.",
+                    "copyright": "Ross D. Franklin/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01cli-freeze-03-tlhg/01cli-freeze-03-tlhg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A solar project in the Gila River Indian Community in Arizona that was partly funded by the Biden-era Inflation Reduction Act.",
+                    "copyright": "Ross D. Franklin/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "No More Palm Trees, and Six Other Ways L.A. Can Protect Itself From Wildfires",
+            "abstract": "Around the world, other communities are experimenting with ideas that Los Angeles could borrow as it rebuilds from disastrous wildfires.",
+            "url": "https://www.nytimes.com/2025/02/01/climate/los-angeles-rebuild-wildfires.html",
+            "uri": "nyt://article/9365ad6d-6e2d-504a-9584-cf7efa7b31f3",
+            "byline": "By Somini Sengupta",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T10:45:41-05:00",
+            "created_date": "2025-02-01T05:01:25-05:00",
+            "published_date": "2025-02-01T05:01:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Southern California Wildfires (Jan 2025)",
+                "Zoning",
+                "Area Planning and Renewal",
+                "Urban Areas",
+                "Real Estate and Housing (Residential)",
+                "Buildings (Structures)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Los Angeles (Calif)",
+                "Rancho Santa Fe (Calif)",
+                "Boulder (Colo)",
+                "Berkeley (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/00CLI-firefixes-01-bmzp/00CLI-firefixes-01-bmzp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A neighborhood burns at the onset of January’s catastrophic Los Angeles-area fires.",
+                    "copyright": "Philip Cheung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/00CLI-firefixes-01-bmzp/00CLI-firefixes-01-bmzp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A neighborhood burns at the onset of January’s catastrophic Los Angeles-area fires.",
+                    "copyright": "Philip Cheung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/00CLI-firefixes-01-bmzp/00CLI-firefixes-01-bmzp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A neighborhood burns at the onset of January’s catastrophic Los Angeles-area fires.",
+                    "copyright": "Philip Cheung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "A Closer Look at 3 Hostages Released Saturday",
+            "abstract": "Hamas released the three men as part of a staggered hostage-for-prisoner exchange under a 42-day cease-fire deal that went into effect last month.",
+            "url": "https://www.nytimes.com/2025/02/01/world/middleeast/israeli-hostages-hamas-saturday.html",
+            "uri": "nyt://article/95371e9d-1806-559a-bac9-749dadd98c2d",
+            "byline": "By Natan Odenheimer, Ephrat Livni, Talya Minsberg and Matthew Mpoke Bigg",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T07:08:00-05:00",
+            "created_date": "2025-02-01T04:30:57-05:00",
+            "published_date": "2025-02-01T04:30:57-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Peace Process",
+                "Kidnapping and Hostages",
+                "Prisons and Prisoners",
+                "Defense and Military Forces",
+                "Terrorism"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-hostage-bios-kctw/01mideast-crisis-hostage-bios-kctw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The family of Ofer Kalderon in Israel celebrating his release on Saturday.",
+                    "copyright": "Amit Elkayam for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-hostage-bios-kctw/01mideast-crisis-hostage-bios-kctw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The family of Ofer Kalderon in Israel celebrating his release on Saturday.",
+                    "copyright": "Amit Elkayam for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/01/multimedia/01mideast-crisis-hostage-bios-kctw/01mideast-crisis-hostage-bios-kctw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The family of Ofer Kalderon in Israel celebrating his release on Saturday.",
+                    "copyright": "Amit Elkayam for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "U.S. Considers Sending Israel 24,000 Assault Rifles Held Back Under Biden",
+            "abstract": "Democratic lawmakers had expressed concerns to Secretary of State Antony J. Blinken about the rifles possibly going to settler militias or being misused by the police.",
+            "url": "https://www.nytimes.com/2025/01/31/us/politics/us-israel-assault-rifles.html",
+            "uri": "nyt://article/8f5344b8-73f4-599b-9028-c06779985d78",
+            "byline": "By Edward Wong",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T11:51:42-05:00",
+            "created_date": "2025-01-31T17:00:45-05:00",
+            "published_date": "2025-01-31T17:00:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "United States International Relations",
+                "Palestinians",
+                "Israeli Settlements",
+                "Arms Trade",
+                "Presidential Transition (US)"
+            ],
+            "org_facet": [
+                "State Department"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Blinken, Antony J",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel",
+                "West Bank"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31dc-israel-weapons-photo-qhzf/31dc-israel-weapons-photo-qhzf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Itamar Ben-Gvir, Israel’s former minister of national security, said in October 2023 that he would give arms to settlements and create civilian militias for the protection of settlers.",
+                    "copyright": "Menahem Kahana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31dc-israel-weapons-photo-qhzf/31dc-israel-weapons-photo-qhzf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Itamar Ben-Gvir, Israel’s former minister of national security, said in October 2023 that he would give arms to settlements and create civilian militias for the protection of settlers.",
+                    "copyright": "Menahem Kahana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31dc-israel-weapons-photo-qhzf/31dc-israel-weapons-photo-qhzf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Itamar Ben-Gvir, Israel’s former minister of national security, said in October 2023 that he would give arms to settlements and create civilian militias for the protection of settlers.",
+                    "copyright": "Menahem Kahana/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Hamas to Free Israeli Father, but Fates of His Wife, Infant and Preschooler Are Unknown",
+            "abstract": "Hamas said it will release the hostage Yarden Bibas, 35, on Saturday. His wife and children were also taken captive on Oct. 7, 2023, but may not have survived.",
+            "url": "https://www.nytimes.com/2025/01/31/world/middleeast/israel-hostage-release-hamas-yarden-bibas.html",
+            "uri": "nyt://article/10528050-a6de-5a09-ae00-c4e9269e8af5",
+            "byline": "By Erika Solomon",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T01:38:21-05:00",
+            "created_date": "2025-01-31T11:22:09-05:00",
+            "published_date": "2025-01-31T11:22:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Kidnapping and Hostages",
+                "Terrorism",
+                "Kibbutz Movement"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31israel-bibas-01-phjm/31israel-bibas-01-phjm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photos of Yarden Bibas and his wife, Shiri, and their two children, Ariel, top, and Kfir. ",
+                    "copyright": "Maya Alleruzzo/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31israel-bibas-01-phjm/31israel-bibas-01-phjm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photos of Yarden Bibas and his wife, Shiri, and their two children, Ariel, top, and Kfir. ",
+                    "copyright": "Maya Alleruzzo/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31israel-bibas-01-phjm/31israel-bibas-01-phjm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Photos of Yarden Bibas and his wife, Shiri, and their two children, Ariel, top, and Kfir. ",
+                    "copyright": "Maya Alleruzzo/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Trump Will Hit Mexico, Canada and China With Tariffs",
+            "abstract": "The White House said it would move forward with levies on America’s largest trading partners on Saturday.",
+            "url": "https://www.nytimes.com/2025/01/31/business/economy/trump-tariffs-canada-mexico-china.html",
+            "uri": "nyt://article/ccdacc92-dbfd-5861-b3fc-20c240b5678b",
+            "byline": "By Ana Swanson, Alan Rappeport and Colby Smith",
+            "item_type": "Article",
+            "updated_date": "2025-02-01T09:28:32-05:00",
+            "created_date": "2025-01-31T10:04:39-05:00",
+            "published_date": "2025-01-31T10:04:39-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Customs (Tariff)",
+                "Protectionism (Trade)",
+                "International Trade and World Market",
+                "United States Politics and Government",
+                "United States Economy",
+                "Prices (Fares, Fees and Rates)",
+                "Oil (Petroleum) and Gasoline",
+                "Agriculture and Farming"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Canada",
+                "Mexico",
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31dc-trump-tariffs-fmlk/31dc-trump-tariffs-fmlk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has promised to impose tariffs on Canada, Mexico and China beginning on Saturday.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31dc-trump-tariffs-fmlk/31dc-trump-tariffs-fmlk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has promised to impose tariffs on Canada, Mexico and China beginning on Saturday.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31dc-trump-tariffs-fmlk/31dc-trump-tariffs-fmlk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has promised to impose tariffs on Canada, Mexico and China beginning on Saturday.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Gaza’s Border Crossing With Egypt Reopening to Let Sick and Wounded Leave",
+            "abstract": "The Rafah crossing has been shuttered for over eight months but is opening again as part of the cease-fire agreement between Israel and Hamas.",
+            "url": "https://www.nytimes.com/2025/01/31/world/middleeast/rafah-crossing-gaza-israel.html",
+            "uri": "nyt://article/8a96db67-fb23-52af-a228-7f8ec0bc2783",
+            "byline": "By Aaron Boxerman and Johnatan Reiss",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:34:45-05:00",
+            "created_date": "2025-01-31T10:00:36-05:00",
+            "published_date": "2025-01-31T10:00:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Rafah (Gaza Strip)",
+                "Israel",
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31mideast-ledeall-cwpm/31mideast-ledeall-cwpm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hundreds of Egyptians gathered in front of the Rafah border crossing between Egypt and the Gaza Strip on Friday.",
+                    "copyright": "Mohammed Arafat/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31mideast-ledeall-cwpm/31mideast-ledeall-cwpm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hundreds of Egyptians gathered in front of the Rafah border crossing between Egypt and the Gaza Strip on Friday.",
+                    "copyright": "Mohammed Arafat/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31mideast-ledeall-cwpm/31mideast-ledeall-cwpm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hundreds of Egyptians gathered in front of the Rafah border crossing between Egypt and the Gaza Strip on Friday.",
+                    "copyright": "Mohammed Arafat/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Hamas Names 3 Hostages It Says Will Be Freed This Weekend",
+            "abstract": "Keith Siegel, an American-Israeli, will be released along with Yarden Bibas and Ofer Kalderon in exchange for about 90 Palestinians being held in Israeli prisons, the group said.",
+            "url": "https://www.nytimes.com/2025/01/31/world/middleeast/hamas-hostages-israel-prisoners-release.html",
+            "uri": "nyt://article/f403c2b7-1165-55ff-869b-1403cbdfc9d1",
+            "byline": "By Aaron Boxerman",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:34:34-05:00",
+            "created_date": "2025-01-31T05:36:27-05:00",
+            "published_date": "2025-01-31T05:36:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Kidnapping and Hostages",
+                "Prisons and Prisoners",
+                "International Relations"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31mideast-ledeall-02-vbpk/31mideast-ledeall-02-vbpk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aviva Siegel, a former hostage, with a photograph of her husband, Keith Siegel, who is set to be released by Hamas this weekend.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31mideast-ledeall-02-vbpk/31mideast-ledeall-02-vbpk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aviva Siegel, a former hostage, with a photograph of her husband, Keith Siegel, who is set to be released by Hamas this weekend.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31mideast-ledeall-02-vbpk/31mideast-ledeall-02-vbpk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aviva Siegel, a former hostage, with a photograph of her husband, Keith Siegel, who is set to be released by Hamas this weekend.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Trump’s Deportations Only Work if Countries Agree to Take Their Citizens Back",
+            "abstract": "Sending people to another country requires bilateral negotiations and diplomatic strong arming.",
+            "url": "https://www.nytimes.com/2025/01/31/world/trumps-deportations-only-work-if-countries-agree-to-take-their-citizens-back.html",
+            "uri": "nyt://article/ee5eb31d-a1a5-5a09-8b26-dc053325846e",
+            "byline": "By Amanda Taub",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:33:28-05:00",
+            "created_date": "2025-01-31T05:03:41-05:00",
+            "published_date": "2025-01-31T05:03:41-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deportation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Brazil",
+                "Colombia",
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31interpreter-deportation-ztcj/31interpreter-deportation-ztcj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazilian migrants deported from the U.S. board a Brazilian Air Force flight in Manaus, Brazil, on Saturday.",
+                    "copyright": "Bruno Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31interpreter-deportation-ztcj/31interpreter-deportation-ztcj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazilian migrants deported from the U.S. board a Brazilian Air Force flight in Manaus, Brazil, on Saturday.",
+                    "copyright": "Bruno Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31interpreter-deportation-ztcj/31interpreter-deportation-ztcj-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazilian migrants deported from the U.S. board a Brazilian Air Force flight in Manaus, Brazil, on Saturday.",
+                    "copyright": "Bruno Kelly/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Walking With Rhinos in Zimbabwe: ‘Everyone Benefits’",
+            "abstract": "On the fringes of an African game park, an ambitious project brings together tourists, local communities and white rhinos, emerging from the brink of extinction.",
+            "url": "https://www.nytimes.com/2025/01/31/travel/zimbabwe-white-rhinoceros-local-tourism.html",
+            "uri": "nyt://article/42d7e10a-828b-5279-91cf-640823401553",
+            "byline": "By Tim Neville",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T05:00:36-05:00",
+            "created_date": "2025-01-31T05:00:36-05:00",
+            "published_date": "2025-01-31T05:00:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Rhinoceroses",
+                "Endangered and Extinct Species",
+                "Travel and Vacations",
+                "National Parks, Monuments and Seashores"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Hwange National Park (Zimbabwe)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/27/multimedia/00zimbabwe-rhinos-jgcb/00zimbabwe-rhinos-jgcb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1383,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Asenze is one of two rhinos that were recently transported from a private reserve to a community-owned sanctuary on the fringes of Hwange National Park in northwest Zimbabwe. Once the rhinos have acclimated to their new surroundings, visitors can go to the sanctuary to see them.",
+                    "copyright": "Scott Wenham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/27/multimedia/00zimbabwe-rhinos-jgcb/00zimbabwe-rhinos-jgcb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Asenze is one of two rhinos that were recently transported from a private reserve to a community-owned sanctuary on the fringes of Hwange National Park in northwest Zimbabwe. Once the rhinos have acclimated to their new surroundings, visitors can go to the sanctuary to see them.",
+                    "copyright": "Scott Wenham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/27/multimedia/00zimbabwe-rhinos-jgcb/00zimbabwe-rhinos-jgcb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Asenze is one of two rhinos that were recently transported from a private reserve to a community-owned sanctuary on the fringes of Hwange National Park in northwest Zimbabwe. Once the rhinos have acclimated to their new surroundings, visitors can go to the sanctuary to see them.",
+                    "copyright": "Scott Wenham"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Friday Briefing",
+            "abstract": "Here’s what you need to know.",
+            "url": "https://www.nytimes.com/2025/01/31/briefing/plane-crash-gaza-rfk.html",
+            "uri": "nyt://article/8242a496-1b78-5277-b931-a7d7a9355022",
+            "byline": "By Natasha Frost",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T00:18:07-05:00",
+            "created_date": "2025-01-31T00:18:07-05:00",
+            "published_date": "2025-01-31T00:18:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/31ambriefing-europe-dc-plane-crash/31ambriefing-europe-dc-plane-crash-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Emergency personnel at the wreckage of American Airlines Flight 5342 on the Potomac River near Reagan National Airport.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/31ambriefing-europe-dc-plane-crash/31ambriefing-europe-dc-plane-crash-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Emergency personnel at the wreckage of American Airlines Flight 5342 on the Potomac River near Reagan National Airport.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/31ambriefing-europe-dc-plane-crash/30dc-factcheck-hcwp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Emergency personnel at the wreckage of American Airlines Flight 5342 on the Potomac River near Reagan National Airport.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Kremlin Chokes YouTube Service, but Russians Find Ways Around It",
+            "abstract": "The Kremlin is trying to cripple YouTube in Russia, internet experts say, pushing some people to state-controlled domestic alternatives. But many Russians have found workarounds.",
+            "url": "https://www.nytimes.com/2025/01/31/world/europe/russia-youtube.html",
+            "uri": "nyt://article/1df0b648-6a5b-550f-9ce6-5d80a08b924b",
+            "byline": "By Paul Sonne",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T22:40:30-05:00",
+            "created_date": "2025-01-31T00:01:07-05:00",
+            "published_date": "2025-01-31T00:01:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Video Recordings, Downloads and Streaming",
+                "Social Media",
+                "Censorship"
+            ],
+            "org_facet": [
+                "YouTube.com",
+                "Vkontakte Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29russia-youtube-01-hzkp/29russia-youtube-01-hzkp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "YouTube has been at the heart of the Russian internet for years and a staple of daily life for many Russians, streaming everything from old Soviet movies to anti-Kremlin political shows.",
+                    "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29russia-youtube-01-hzkp/29russia-youtube-01-hzkp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "YouTube has been at the heart of the Russian internet for years and a staple of daily life for many Russians, streaming everything from old Soviet movies to anti-Kremlin political shows.",
+                    "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29russia-youtube-01-hzkp/29russia-youtube-01-hzkp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "YouTube has been at the heart of the Russian internet for years and a staple of daily life for many Russians, streaming everything from old Soviet movies to anti-Kremlin political shows.",
+                    "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "North Korean Troops No Longer Seen on Front Lines Fighting Ukraine",
+            "abstract": "North Korea sent its best troops to aid Russia in its war against Ukraine. But after months of suffering severe losses, they have been taken off the front line.",
+            "url": "https://www.nytimes.com/2025/01/30/world/europe/north-korea-troops-ukraine-russia.html",
+            "uri": "nyt://article/1e194ec3-561b-5455-93dc-5b6c7ec37b9f",
+            "byline": "By Michael Schwirtz and Julian E. Barnes",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T05:42:48-05:00",
+            "created_date": "2025-01-30T22:20:39-05:00",
+            "published_date": "2025-01-30T22:20:39-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kim Jong-un",
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "North Korea",
+                "Kursk (Russia)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30russia-northkorea-bwck/30russia-northkorea-bwck-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ukrainian military vehicles near the border of Russia’s Kursk region in January.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30russia-northkorea-bwck/30russia-northkorea-bwck-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ukrainian military vehicles near the border of Russia’s Kursk region in January.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30russia-northkorea-bwck/30russia-northkorea-bwck-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ukrainian military vehicles near the border of Russia’s Kursk region in January.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "3 Are Arrested in Theft of Gold Helmet From Dutch Museum",
+            "abstract": "The police said they had yet to recover the golden helmet of Cotofenesti, a prized artifact from Romania, and other artifacts stolen from the Drents Museum in the Netherlands over the weekend.",
+            "url": "https://www.nytimes.com/2025/01/30/world/europe/art-heist-cotofenesti-arrests.html",
+            "uri": "nyt://article/34832f63-19ee-5835-9bd0-b1cded8536dc",
+            "byline": "By Aimee Ortiz and Claire Moses",
+            "item_type": "Article",
+            "updated_date": "2025-01-30T18:15:36-05:00",
+            "created_date": "2025-01-30T17:27:50-05:00",
+            "published_date": "2025-01-30T17:27:50-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Robberies and Thefts",
+                "Museums",
+                "Gold",
+                "Arts and Antiquities Looting"
+            ],
+            "org_facet": [
+                "Drents Museum",
+                "National History Museum of Romania"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Netherlands"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30xp-heist-03-mghq/30xp-heist-03-mghq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The helmet of Cotofenesti, an elaborately decorated solid-gold headpiece from the fifth century B.C., was among the items stolen from the Drents Museum in Assen, the Netherlands, over the weekend.",
+                    "copyright": "Drents Museum, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30xp-heist-03-mghq/30xp-heist-03-mghq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The helmet of Cotofenesti, an elaborately decorated solid-gold headpiece from the fifth century B.C., was among the items stolen from the Drents Museum in Assen, the Netherlands, over the weekend.",
+                    "copyright": "Drents Museum, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30xp-heist-03-mghq/30xp-heist-03-mghq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The helmet of Cotofenesti, an elaborately decorated solid-gold headpiece from the fifth century B.C., was among the items stolen from the Drents Museum in Assen, the Netherlands, over the weekend.",
+                    "copyright": "Drents Museum, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel Frees Palestinian Prisoners After Chaotic Hostage Handover",
+            "abstract": "Hamas freed three Israelis and five Thai nationals in exchange for more than 100 Palestinians. But the militant group struggled to control crowds, prompting a delay.",
+            "url": "https://www.nytimes.com/2025/01/30/world/middleeast/israel-hostages-prisoners-hamas.html",
+            "uri": "nyt://article/4bd18dfc-2134-5f6f-86a5-62863bd7996f",
+            "byline": "By Adam Rasgon, Aaron Boxerman, Hannah Beech, Muktita Suhartono, Johnatan Reiss and Yonette Joseph",
+            "item_type": "Article",
+            "updated_date": "2025-01-31T09:10:02-05:00",
+            "created_date": "2025-01-30T17:08:22-05:00",
+            "published_date": "2025-01-30T17:08:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Peace Process",
+                "Kidnapping and Hostages",
+                "Prisons and Prisoners",
+                "Terrorism",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [
+                "Arbel Yehud",
+                "Gadi Moses",
+                "Agam Berger",
+                "Pongsak Thanna",
+                "Sathian Suwannakham",
+                "Watchara Sriaoun",
+                "Bannawat Seathao",
+                "Surasak Lamnao",
+                "Nattapong Pinta"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip",
+                "Thailand"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30mideast-ledeall-02-qblk/30mideast-ledeall-02-qblk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian militants escorting one of the freed Israeli hostages, Arbel Yehud, to Red Cross officials in Gaza on Thursday.",
+                    "copyright": "Haitham Imad/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30mideast-ledeall-02-qblk/30mideast-ledeall-02-qblk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian militants escorting one of the freed Israeli hostages, Arbel Yehud, to Red Cross officials in Gaza on Thursday.",
+                    "copyright": "Haitham Imad/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30mideast-ledeall-02-qblk/30mideast-ledeall-02-qblk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian militants escorting one of the freed Israeli hostages, Arbel Yehud, to Red Cross officials in Gaza on Thursday.",
+                    "copyright": "Haitham Imad/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Palestinians Gather in West Bank to Welcome Prisoners Released by Israel",
+            "abstract": "Throngs of people eagerly waited on Thursday for more than 100 Palestinian prisoners who were released from Israel in exchange for hostages held in Gaza.",
+            "url": "https://www.nytimes.com/2025/01/30/world/middleeast/palestinians-gather-west-bank-welcome-prisoners.html",
+            "uri": "nyt://article/b10c68d7-d8a1-5434-ad55-bea2ffb50a15",
+            "byline": "By Fatima AbdulKarim and Liam Stack",
+            "item_type": "Article",
+            "updated_date": "2025-01-30T17:06:32-05:00",
+            "created_date": "2025-01-30T17:04:58-05:00",
+            "published_date": "2025-01-30T17:04:58-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Prisons and Prisoners",
+                "Amnesties, Commutations and Pardons"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Ramallah (West Bank)",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30mideast-crisis-west-bank-scene-hqvt/30mideast-crisis-west-bank-scene-hqvt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Freed Palestinian prisoners in the West Bank city of Ramallah, on Thursday.",
+                    "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30mideast-crisis-west-bank-scene-hqvt/30mideast-crisis-west-bank-scene-hqvt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Freed Palestinian prisoners in the West Bank city of Ramallah, on Thursday.",
+                    "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/30/multimedia/30mideast-crisis-west-bank-scene-hqvt/30mideast-crisis-west-bank-scene-hqvt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Freed Palestinian prisoners in the West Bank city of Ramallah, on Thursday.",
+                    "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

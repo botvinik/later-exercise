@@ -1,0 +1,42 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+   binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Article {
+  id          Int       @id @default(autoincrement())
+  section     String?
+  title       String?
+  abstract    String?
+  url         String    @db.VarChar(1024)
+  uri         String    @db.VarChar(1024) @unique
+  updatedAt   DateTime
+  createdAt   DateTime
+  publishedAt DateTime
+  receivedAt  DateTime  @default(now())
+
+  @@index([uri])
+  @@index([section, publishedAt(sort: Desc)])
+}
+
+model Insight {
+  id          Int       @id @default(autoincrement())
+  section     String?  
+  content     String?
+  insightDate DateTime
+  
+  @@index([section, insightDate(sort: Desc)])
+  @@unique([section, insightDate], name: "section_insight_date")
+ // @@index([author, created_at(sort: Desc)])
+}
