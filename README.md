@@ -1,4 +1,7 @@
-# Application overview
+# Architectural Design
+The file [Later - Architectural Design.pdf](Later%20-%20Architectural%20Design) contains the architectural design.
+
+# POC - Application overview
 The application fetches the top stories from the New York Times APIs from 5 categories (business, science, technology, us, world) and store them 
 in a Postgres Database. After fetching the top stories the application generates a daily summary of the top stories for each category by querying 
 OpenAI conversation API.
@@ -8,7 +11,7 @@ and the list of related articles with:
 * an abstract
 * a link to the full article on NYT web site
 
-# Application architecture
+# POC - Application architecture
 ## Overview
 The application runs a Next.js server and a Posgresql DB within a Docker environment. The choice of running within Docker was motivated by:
 * minimizing the effort for installing and running the application
@@ -30,11 +33,11 @@ the process would run as a scheduled job (an ECS task) on a separate service eve
 
 The UI is mostly static, with only a dropdown to select the category, so we render it with SSR to allow better SEO and caching from CDNs.
 
-# Application setup
+# POC - Application setup
 ## Installation
 1. Clone the repository
 2. Make sure you have Docker installed on your machine
-3. Make a `.env` file in the root folder with `touch .env` with the following variables
+3. Make a `.env` file in the root folder with `touch .env`. Add the the following variables:
 ```
 APP_NAME=later-exercise
 
@@ -64,6 +67,3 @@ Run `docker compose down` to stop the development server
 
 ## Manually run the NYT article sync job
 When the containers are running, we can manually run the synchronization job with the command `npm run fetch-nyt-stories` within the `client-dev` container.
-
-## Generate migrations
-run `npx prisma migrate dev --create-only --name migration_name`
