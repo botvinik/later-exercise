@@ -8,7 +8,7 @@ async function Insight(props: any) {
 
         if (!articles || articles.length === 0) {
             return (
-                <div className="article-none">No recent {props.section} news found</div>
+                <div key="article-none" className="article-none">No recent {props.section} news found</div>
             );
         }
 
@@ -16,9 +16,9 @@ async function Insight(props: any) {
             elements.push(
                 <>
                     <div key={article.uri} className="article">
-                        <div className="article-title">{article.title}</div>
-                        <div className="article-abstract">{article.abstract}</div>
-                        <div className="article-link"><a href={article.url}>Read on NYT</a></div>
+                        <div key="article-title" className="article-title">{article.title}</div>
+                        <div key="article-abstract" className="article-abstract">{article.abstract}</div>
+                        <div key="article-link" className="article-link"><a href={article.url}>Read on NYT</a></div>
                     </div>
                 </>
             );

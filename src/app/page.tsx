@@ -6,8 +6,9 @@ import Articles from "@/components/Articles";
 
 import { DEFAULT_SECTION } from "@/config/constants";
 
-export default function Home({params, searchParams}) {
-  const section = searchParams.section || DEFAULT_SECTION;
+export default async function Home({ searchParams }) {
+  const sp = await searchParams;
+  const section = sp.section || DEFAULT_SECTION;
   return (
     <>
       <Header section={section}/>
